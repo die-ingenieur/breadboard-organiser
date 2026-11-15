@@ -17,4 +17,5 @@ Messy components, i made this organiser and breadboard set up to help, with spot
   Just plug them into the power supply and use them as power supply sticks
   
 The power supply in my plan:
+
 <img width="572" height="453" alt="image" src="https://github.com/user-attachments/assets/fa47e515-97f2-4f36-876c-44aa4ad58011" />
