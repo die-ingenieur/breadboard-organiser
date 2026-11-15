@@ -18,7 +18,7 @@
 2. [2026-11-08: What i did:](#2026-11-08-what-i-did)
 3. [2026-11-08: Work session](#2026-11-08-work-session)
 4. [2026-11-08: I forgot to record my progress,so yeah,](#2026-11-08-i-forgot-to-record-my-progressso-yeah)
-5. [2026-11-15: Work session](#2026-11-15-work-session)
+5. [2026-11-14: What i did in this work session:](#2026-11-14-what-i-did-in-this-work-session)
 
 ## Design
 
@@ -62,8 +62,14 @@ meaning, i created the area where i will place my breadboard and made the area w
 here you can see a picture of my finished product
 ![image](https://halflife.hackclub-assets.com/sessions/427hODD7h4ylsfNe58I5XNpn8qGPPHsr/f3e0e272016240d81ad5e8c438b1ba5de3080d8181f2b79b02b190215b2fc146.png)
 
-### 2026-11-15: Work session
+### 2026-11-14: What i did in this work session:
 
 **0.83h**
+
+What i did in this work session:
+- i created a place where i can store my arduino uno.
+
+- I used reference diagrams to find the positions of holes, and placed pillars on my design corresponding to
+    these holes which will help to secure the uno.
 
 [Timelapse](https://lookout.hackclub.com/api/media/6332c0d4-6dbc-41ef-86c1-18339e17658b/video.mp4)
